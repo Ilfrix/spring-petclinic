@@ -26,4 +26,5 @@ services:
     profiles:
       - postgres
 first branch1
-second branch2
+second branch1
+third branch1
