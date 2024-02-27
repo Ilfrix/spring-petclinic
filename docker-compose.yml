@@ -27,3 +27,4 @@ services:
       - postgres
 first in branch2
 second in branch2
+third in branch2
